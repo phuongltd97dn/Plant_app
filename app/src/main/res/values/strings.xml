@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Week_7</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!--    Home-->
+    <string name="home_toolbar_text_title">Garden</string>
+    <!--    Register-->
+    <string name="title_text">Register</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="university_hint">University</string>
+    <string name="home_town_hint">Home Town</string>
+    <string name="next_button_text">Next</string>
+    <!--    Drawer-->
+    <string name="first_item_title">Vườn Rau</string>
+    <string name="second_item_title">Trồng rau</string>
+    <string name="third_item_title">Rau sắp thu hoạch</string>
+    <string name="fourth_item_title">Rau bị sâu</string>
+    <string name="fifth_item_title">Rau bị thiếu nước</string>
+    <!--    Plant Tree Dialog-->
+    <string name="title">Plant Tree</string>
+    <string name="ok_button_text">OK</string>
+    <!--    Cultivation item-->
+    <string name="cultivation_time_text">Cultivation Time: </string>
+    <string name="harvest_time_text">Harvest Time: </string>
+    <!--    Cultivation Detail-->
+    <string name="detail_toolbar_text_title">Plant Details</string>
+
+</resources>
